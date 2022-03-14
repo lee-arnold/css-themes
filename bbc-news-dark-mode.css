@@ -5,7 +5,7 @@
   --alt-light: #888;
 }
 body {
-  background-color: pink !important;
+  background-color: var(--main-dark) !important;
   color: var(--main-light) !important;
 }
 #orb-header {
