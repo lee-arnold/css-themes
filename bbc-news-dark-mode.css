@@ -126,7 +126,9 @@ body {
   color: var(--alt-light) !important;
 }
 
-article {
+article,
+article strong,
+article a {
   color: var(--alt-light) !important;
 }
 
