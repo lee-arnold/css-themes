@@ -14,6 +14,14 @@ body {
   color: var(--main-light) !important;
 }
 
+.ssrcss-12oaa2e-StyledLink {
+  color: var(--main-light) !important;
+}
+
+.ssrcss-s8e6ra-MenuListContainer {
+  background-color: var(--main-dark) !important;
+}
+
 #orb-header,
 .ssrcss-1hf0j38-GlobalNavigation {
   background-color: var(--main-dark) !important;
@@ -83,6 +91,9 @@ body {
   filter: invert(100%) !important;
 }
 #idcta-link::before {
+  filter: invert(100%) !important;
+}
+.ssrcss-vpg1m9-BlocksWrapper svg {
   filter: invert(100%) !important;
 }
 #notification-link {
