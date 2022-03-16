@@ -137,7 +137,8 @@ body {
 
 article,
 article strong,
-article a {
+article a,
+.ssrcss-1vejudh-RichTextContainer {
   color: var(--alt-light) !important;
 }
 
@@ -153,8 +154,9 @@ aside li > div {
   background-color: var(--alt-dark) !important;
 }
 
-aside li > a,
-aside dl {
+aside li a,
+aside dl,
+article dl {
   color: var(--alt-light) !important;
 }
 
@@ -163,5 +165,9 @@ aside dd path {
 }
 
 figcaption {
+  color: var(--alt-light) !important;
+}
+
+.ssrcss-msolhr-LinksWrapper h2 {
   color: var(--alt-light) !important;
 }
