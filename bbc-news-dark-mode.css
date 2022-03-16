@@ -122,6 +122,23 @@ body {
   background-color: var(--alt-dark) !important;
 }
 
-#main-content {
+#main-heading h1,
+#main-heading p {
+  color: var(--alt-light) !important;
+}
+
+#main-content p {
+  color: var(--alt-light) !important;
+}
+
+aside h2 {
+  color: var(--alt-light) !important;
+}
+
+aside li {
+  background-color: var(--alt-dark) !important;
+}
+
+figcaption {
   color: var(--alt-light) !important;
 }
