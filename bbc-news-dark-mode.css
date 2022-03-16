@@ -8,14 +8,23 @@ body {
   background-color: var(--main-dark) !important;
   color: var(--main-light) !important;
 }
-#orb-header {
+
+.ssrcss-m24u36-MenuContainer-SecondaryNavBarContainer {
+  background-color: var(--main-dark) !important;
+  color: var(--main-light) !important;
+}
+
+#orb-header,
+.ssrcss-1hf0j38-GlobalNavigation {
   background-color: var(--main-dark) !important;
   border-color: var(--alt-dark) !important;
 }
-#orb-header a {
+#orb-header a,
+.ssrcss-1hf0j38-GlobalNavigation a {
   color: var(--main-light) !important;
 }
-#orb-header li {
+#orb-header li,
+.ssrcss-1hf0j38-GlobalNavigation li {
   border-color: var(--alt-dark) !important;
 }
 #mybbc-wrapper {
