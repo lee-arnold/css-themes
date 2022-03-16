@@ -161,7 +161,9 @@ aside h2 {
   color: var(--alt-light) !important;
 }
 
-aside li > div {
+aside li > div,
+.ssrcss-ezh9qc-Promo,
+.ssrcss-547yr3-PromoItem {
   background-color: var(--alt-dark) !important;
 }
 
