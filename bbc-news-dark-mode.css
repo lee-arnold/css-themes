@@ -121,3 +121,7 @@ body {
 .lx-stream__post-container > article.lx-stream-post--breaking {
   background-color: var(--alt-dark) !important;
 }
+
+#main-content {
+  color: var(--alt-light) !important;
+}
