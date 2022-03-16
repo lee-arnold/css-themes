@@ -142,8 +142,13 @@ aside li > div {
   background-color: var(--alt-dark) !important;
 }
 
-aside li > a {
+aside li > a,
+aside dl {
   color: var(--alt-light) !important;
+}
+
+aside dd path {
+  filter: invert(100%) !important;
 }
 
 figcaption {
