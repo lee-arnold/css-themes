@@ -154,6 +154,14 @@ article a,
   color: var(--alt-light) !important;
 }
 
+.ssrcss-uf6wea-RichTextComponentWrapper {
+  color: var(--alt-light) !important;
+}
+
+.ssrcss-uf6wea-RichTextComponentWrapper * {
+  color: unset !important;
+}
+
 #main-content p {
   color: var(--alt-light) !important;
 }
@@ -182,6 +190,10 @@ figcaption {
   color: var(--alt-light) !important;
 }
 
-.ssrcss-axlwsg-StyledHeading {
+.ssrcss-dm4ypg-ComponentWrapper-HeadlineComponentWrapper {
   color: var(--alt-light) !important;
+}
+
+.ssrcss-dm4ypg-ComponentWrapper-HeadlineComponentWrapper * {
+  color: unset !important;
 }
