@@ -201,3 +201,13 @@ figcaption {
 .ssrcss-dm4ypg-ComponentWrapper-HeadlineComponentWrapper * {
   color: unset !important;
 }
+
+.lx-c-dynamic-promo__title {
+  color: var(--alt-light) !important;
+}
+
+.nw-p-oat.lx-c-dynamic-promo,
+.news-index-chameleon-enabled .lx-c-dynamic-promo {
+  background-color: transparent !important;
+  border: 1px solid var(--alt-light) !important;
+}
