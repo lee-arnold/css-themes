@@ -194,6 +194,10 @@ figcaption {
   color: var(--alt-light) !important;
 }
 
+.ssrcss-axlwsg-StyledHeading {
+  color: var(--alt-light) !important;
+}
+
 .ssrcss-dm4ypg-ComponentWrapper-HeadlineComponentWrapper * {
   color: unset !important;
 }
